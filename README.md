@@ -1,12 +1,12 @@
 
-# Fast Forward algorithm for solving AI planningg problems based on Planning Graphs
+# Fast Forward algorithm for solving AI planning problems based on Planning Graphs
 
 ### Introduction
 
 This is an implementation of Forward search algorithm using Planning Graphs for solving AI Planning problems.
-For more information about the problem and the implemented algorithm see the following papers:
-[The FF Planning System: Fast Plan Generation Through Heuristic Search](https://arxiv.org/pdf/1106.0675.pdf)
-[Fast Planning Through Planning Graph Analysis](https://www.cs.cmu.edu/~avrim/Papers/graphplan.pdf)
+For more information about the problem and the implemented algorithm see the following papers:  
+	[The FF Planning System: Fast Plan Generation Through Heuristic Search](https://arxiv.org/pdf/1106.0675.pdf)  
+	[Fast Planning Through Planning Graph Analysis](https://www.cs.cmu.edu/~avrim/Papers/graphplan.pdf)
 
 The code is written in Visual C#. So in order to run the code you need a C# compiler and .net framework or you can simply use Microsoft Visual Studio.
 
